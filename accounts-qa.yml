@@ -2,7 +2,7 @@ build:
   version: "2.0"
 
 accounts:
-  message: "My accounts api QA non edited"
+  message: "My accounts api QA edited"
   contactDetails:
     name: "Franco - Developer"
     email: "franco.developer@gmail.com"
