@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 cards:
-  message: "My cards api"
+  message: "My cards api sdfgsg"
   contactDetails:
     name: "Franco - Developer"
     email: "franco.developer@gmail.com"
